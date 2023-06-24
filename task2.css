@@ -1,0 +1,66 @@
+body {
+    font-family: Roboto;
+   
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #todo-container {
+    text-align:center;
+    margin-bottom: 10px;
+  }
+  
+  #todo-input {
+    flex-grow: 1;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 16px;
+    margin-left:20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    padding:20px;
+    margin-right:20px;
+  }
+  
+  .priority-high {
+    color: red;
+    font-weight: bold;
+    font-family: Roboto;
+  }
+  
+  .priority-medium {
+    color: orange;
+    font-family: Roboto;
+  }
+  
+  .priority-low {
+    color: green;
+    font-family: Roboto;
+  }
+
+  span{
+    padding-right:10px;
+  }
+
+
+.back{
+    background-image:url("https://cutewallpaper.org/21/todo-list-wallpaper/Notes-To-Do-List-Smart-Phone-Christmas-Composition-.jpg");
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+    text-align:center;
+}
+
+  
